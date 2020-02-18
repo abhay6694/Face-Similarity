@@ -65,7 +65,7 @@ pyxdg==0.25
 PyYAML==5.3
 regex==2020.1.8
 reportlab==3.3.0
-requests==2.9.1
+requests==2.20.0
 scikit-learn==0.22.1
 scipy==1.4.1
 sessioninstaller==0.0.0
