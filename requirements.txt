@@ -26,7 +26,7 @@ httplib2==0.9.1
 idna==2.0
 impyute==0.0.8
 itsdangerous==1.1.0
-Jinja2==2.11.1
+Jinja2==2.11.3
 joblib==0.14.1
 Keras==2.3.1
 Keras-Applications==1.0.8
