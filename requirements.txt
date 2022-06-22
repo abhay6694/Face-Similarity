@@ -39,7 +39,7 @@ Mako==1.0.3
 Markdown==3.2.1
 MarkupSafe==1.1.1
 mtcnn==0.1.0
-numpy==1.18.1
+numpy==1.22.0
 oauthlib==1.0.3
 onboard==1.2.0
 opencv-python==4.2.0.32
